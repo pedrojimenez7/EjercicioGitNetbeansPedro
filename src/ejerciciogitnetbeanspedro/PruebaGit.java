@@ -11,5 +11,5 @@ package ejerciciogitnetbeanspedro;
  */
 public class PruebaGit {
     int numero = 5;
-   
+    int numero2 =4;
 }
